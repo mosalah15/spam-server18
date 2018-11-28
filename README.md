@@ -1,1 +1,1 @@
-# spam-server18
+# credit
